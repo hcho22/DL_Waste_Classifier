@@ -1,10 +1,10 @@
 # DL_Waste_Classifier
-Deep Learning Waste_Classifier using fast.ai library
+Deep Learning Waste_Classifier using Pytorch/fastai
 
 Image Classifier for training different types of trash with ~96% accuracy
 
 Requirements
 - Python
-- fastai library
+- Pytorch / fastai
 - OpenCV 
-- Jupyter Notebook
+- Jupyter Notebook / Google Colab
